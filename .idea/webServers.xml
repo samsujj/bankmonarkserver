@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f2da4a93-f3ab-48df-bf1a-03be8ee12128" name="bankmonarkserver" url="http://132.148.90.242">
+        <fileTransfer host="132.148.90.242" port="22" rootFolder="/home/westcoastvg" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
